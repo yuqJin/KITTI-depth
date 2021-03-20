@@ -2,7 +2,7 @@
 
 ![input](0000000006.png)
 ![output](depth_result.png)
-## Visualization based on deep truth data provided by KITTI
+## Visualization based on depth ground truth provided by KITTI
  
  
 ### Just RUN!
